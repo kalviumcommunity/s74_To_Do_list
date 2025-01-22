@@ -1,4 +1,5 @@
-Project Title To-Do List API
+**Project Title To-Do List API**
+
 
 Project Overview
 
@@ -39,3 +40,5 @@ Hands-On Learning: It’s a simple yet effective way to explore backend developm
 Relevance: To-do lists are commonly used applications, making this project relatable and valuable for showcasing skills.
 
 Future Expansion: Can be extended to include user authentication, task deadlines, and notifications.
+
+
